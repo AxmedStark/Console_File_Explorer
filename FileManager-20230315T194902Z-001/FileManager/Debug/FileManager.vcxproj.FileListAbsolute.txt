@@ -1,2 +1,0 @@
-D:\Projects_cpp\FileManager\Debug\FileManager.exe
-D:\Projects_cpp\FileManager\Debug\FileManager.pdb
