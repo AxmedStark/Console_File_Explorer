@@ -16,3 +16,5 @@ Features :
 
 Bugs :
 - When deleting a folder it returns "Folder deletion failed : No such file or directory", but actually deletes.
+
+![alt text](https://github.com/AxmedStark/Console_File_Manager/blob/main/image.png?raw=true)
